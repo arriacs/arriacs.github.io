@@ -9,7 +9,8 @@ Cambridge University Press
 
 This book interests me because it explores the intersection of multiple fields including "economics, sociology, computing and information science, and applies mathematics" (Easley, Kleinberg). Information by itself isn't as useful as seen in combination with other applications, and I love to explore how one branch of society affects another.
 
-Citations
+**Citations**
+
 Otterson, Jeff. (n.d). AI Career Threat Index. https://github.com/Jott2121/ai-career-threat-index
 
 Easley, David. Kleinberg Jon. 2010. Networks, Crows, and Markets: Reasoning About a Highly Connected World.
